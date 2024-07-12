@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272093011852",
+    "project_id": "zawg-5d1f7",
+    "storage_bucket": "zawg-5d1f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272093011852:android:9eb8a3b1c182a849fa40a9",
+        "android_client_info": {
+          "package_name": "com.example.zawg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXr65sfKcXleNAeyixTnSbrLzHceFPiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
